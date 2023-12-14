@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Rethink+Sans:wght@500&display=swap');
+
+
+
+body{
+    margin:0 auto;
+    padding:0 auto;
+}
+
+p{
+    color:black;
+    font-family: 'Rethink Sans', sans-serif;
+    text-align: justify;
+    font-style: italic;
+    text-transform: uppercase;
+    text-align: center;
+}
+.box{
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 20%;
+    background-color: aqua;
+    border-radius: 5px;
+    border-color:black;
+}
+a{
+    align-items: center;
+    justify-content: center;
+    display:flex;
+}
+h1{
+    text-align: center;
+}
